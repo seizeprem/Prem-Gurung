@@ -31,7 +31,7 @@ Let’s connect!
 
 ________________________________________
 
-https://github-profile-summary-cards.vercel.app/demo.html
+
 # I'm [Your Name] 👋
 
 I'm a [Your Job Title] at [Your Company]. I’ve been working in [Field] for over [X] years. I'm passionate about [What You Do or Learn].
@@ -43,7 +43,7 @@ I'm a [Your Job Title] at [Your Company]. I’ve been working in [Field] for ove
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seizeprem&show_icons=true&theme=default)
 
 ## 📫 Connect with me:
 
