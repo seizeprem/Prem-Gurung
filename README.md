@@ -29,11 +29,4 @@ ________________________________________
 I’m actively looking for opportunities to contribute, grow, and connect with professionals, mentors, and teams in cybersecurity, automation, and infrastructure.
 Let’s connect!
 
-•	🌐 Blog / Portfolio: (Add your link here)
-
-•	🐙 GitHub: [Your GitHub Username]
-
-•	📫 Email: (Optional or via GitHub)
-
-•	💼 LinkedIn: (Optional link here)
 ________________________________________
