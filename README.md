@@ -20,7 +20,7 @@ ________________________________________
 •	Community Contribution & Open Source Collaboration
 ________________________________________
 
-🚀 ** Vision**
+🚀** Vision**
 
 To build a future-ready tech company that safeguards the digital world and empowers communities through innovation.
 ________________________________________
