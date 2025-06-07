@@ -44,6 +44,7 @@ I'm a [Your Job Title] at [Your Company]. I’ve been working in [Field] for ove
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seizeprem&show_icons=true&theme=default)
+ https://github-profile-summary-cards.vercel.app/user/seizeprem
 
 ## 📫 Connect with me:
 
