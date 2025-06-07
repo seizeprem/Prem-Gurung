@@ -7,22 +7,33 @@ I’m currently engaged in research with a focus on cybersecurity, particularly 
 
 Though I’m early in my industrial career, my vision is long-term: to build a tech company that not only innovates but also serves society, helping secure digital spaces and positively impacting the world. I’m deeply inspired by the idea of using technology as a force for good — to transform lives, enhance security, and shape a better future.
 ________________________________________
-🔍 Interests & Focus Areas
+🔍** Interests & Focus Areas**
+
 •	Cybersecurity (Network Security, Threat Detection, System Hardening)
+
 •	Ethical Hacking & Vulnerability Assessment
+
 •	Security Research & Capstone Projects
+
 •	Automation in Security Operations
+
 •	Community Contribution & Open Source Collaboration
 ________________________________________
 
-🚀 Vision
+🚀** Vision**
+
 To build a future-ready tech company that safeguards the digital world and empowers communities through innovation.
 ________________________________________
-📡 Open to Collaborate / Work
+📡 **Open to Collaborate / Work**
+
 I’m actively looking for opportunities to contribute, grow, and connect with professionals, mentors, and teams in cybersecurity, automation, and infrastructure.
 Let’s connect!
+
 •	🌐 Blog / Portfolio: (Add your link here)
+
 •	🐙 GitHub: [Your GitHub Username]
+
 •	📫 Email: (Optional or via GitHub)
+
 •	💼 LinkedIn: (Optional link here)
 ________________________________________
