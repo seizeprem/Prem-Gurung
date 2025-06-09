@@ -62,6 +62,8 @@ I'm a [Your Job Title] at [Your Company]. I’ve been working in [Field] for ove
 ## ✍️ Blog Posts
 - [Title 1](https://link1.com)
 - [Title 2](https://link2.com)
+- [Title 3](https://link2.com)
+
 
 ## ☕ Support Me
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/premgurungs)
